@@ -1,0 +1,24 @@
+.title{
+  text-align: center;
+}
+
+#boxImg {
+  display: flex;
+  justify-content: center  ;
+}
+
+#divButton {
+  display: flex;
+  justify-content: center  ;
+}
+
+
+#numberPokemon {
+  display: flex;
+  justify-content: center;
+}
+
+#namePokemon {
+  display: flex;
+  justify-content: center;
+}
